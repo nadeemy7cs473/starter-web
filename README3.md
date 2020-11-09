@@ -16,6 +16,8 @@ Deployment of changes.
 
 ## How to Contribute
 
+Please fork this file
+
 ### Copy right
 
 2020 copy right notice

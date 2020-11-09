@@ -1,6 +1,6 @@
 # Starter Web project
 
-This is a simple project to show Git and Github
+This is a simple project to show Git and Github, more changes from feature branch
 
 ## Introduction
 

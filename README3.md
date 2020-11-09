@@ -20,4 +20,4 @@ Please fork this file
 
 ### Copy right
 
-2020 copy right notice
+2020 copy right notice. all conditions apply

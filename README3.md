@@ -15,3 +15,7 @@ Providing purpose of Git training.
 Deployment of changes.
 
 ## How to Contribute
+
+### Copy right
+
+2020 copy right notice
